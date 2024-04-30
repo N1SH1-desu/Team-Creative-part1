@@ -6,7 +6,6 @@
 #include "SceneOver.h"
 #include "SceneClear.h"
 
-
 // 実体宣言
 SceneGame sceneGame;
 SceneTitle sceneTitle;
