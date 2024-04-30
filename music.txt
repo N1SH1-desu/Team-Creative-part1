@@ -1,0 +1,7 @@
+TITLE:Test
+WAVE:test.wav
+BPM:120
+OFFSET:-1.0
+#START,
+1100,0100
+1,1
