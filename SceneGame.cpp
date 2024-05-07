@@ -6,6 +6,7 @@
 void SceneGame::init()
 {
 	p = new MusicData("music.txt");
+	int a;
 }
 
 void SceneGame::update()
